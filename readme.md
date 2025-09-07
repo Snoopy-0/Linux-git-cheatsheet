@@ -18,3 +18,5 @@
 
 ## Git Commands
 1. `git status` -> show working tree status
+
+2. `git add` -> stage changes for commit
