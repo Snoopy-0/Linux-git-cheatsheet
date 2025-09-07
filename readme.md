@@ -7,3 +7,5 @@
 3. `cd` -> Change to a directory
 
 4. `mkdir` -> create a new directory
+
+5. `touch` -> create an empty file
