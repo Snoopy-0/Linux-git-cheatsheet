@@ -15,3 +15,6 @@
 6. `cp` -> copy files and/or directories
 
 7. `cat` -> display file conents / concatenate
+
+## Git Commands
+1. `git status` -> show working tree status
