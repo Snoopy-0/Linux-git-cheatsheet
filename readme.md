@@ -27,3 +27,6 @@
 
 5. `git merge` -> merge a branch into the current branch
 
+6. `git push` -> upload commits to the remote repository
+
+
