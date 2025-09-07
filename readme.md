@@ -1,6 +1,5 @@
 # Linux and Git Command Cheatsheet
 
-
 ## Linux Commands
 1. `pwd` -> prints the current working directory
 
@@ -28,5 +27,7 @@
 5. `git merge` -> merge a branch into the current branch
 
 6. `git push` -> upload commits to the remote repository
+
+7. `git pull` -> fetch and merge updates from the remote repository
 
 
