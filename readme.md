@@ -1,5 +1,7 @@
 # Linux and Git Command Cheatsheet
 
+
+## Linux Commands
 1. `pwd` -> prints the current working directory
 
 2. `ls` -> List the files and directories inside the current directory
@@ -9,3 +11,5 @@
 4. `mkdir` -> create a new directory
 
 5. `touch` -> create an empty file
+
+6. `cp` -> copy files and/or directories
