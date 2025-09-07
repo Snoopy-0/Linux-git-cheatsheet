@@ -24,3 +24,6 @@
 3. `git commit` -> commit staged changes
 
 4. `git branch` -> list/create/delete branches
+
+5. `git merge` -> merge a branch into the current branch
+
