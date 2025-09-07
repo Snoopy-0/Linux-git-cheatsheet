@@ -13,3 +13,5 @@
 5. `touch` -> create an empty file
 
 6. `cp` -> copy files and/or directories
+
+7. `cat` -> display file conents / concatenate
