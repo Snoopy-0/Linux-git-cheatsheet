@@ -23,3 +23,4 @@
 
 3. `git commit` -> commit staged changes
 
+4. `git branch` -> list/create/delete branches
