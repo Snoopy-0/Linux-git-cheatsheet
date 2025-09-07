@@ -30,4 +30,5 @@
 
 7. `git pull` -> fetch and merge updates from the remote repository
 
+8. `git stash` -> Temporarily save changes without committing
 
